@@ -11,6 +11,20 @@
 
 This dashboard aims to provide insights into the sales(claimed insurance) of different health insurance providers, also, the diagnosis for which the insurance has been claimed , the cost incurred to the providers and the product name of the insurance and various other factors has been accounted / analyzed for a better understanding of each provider's performance.
 
+![Screenshot 2024-05-10 145853](https://github.com/Tenzdd/Health-Insurance-Data-Analysis/assets/120646586/c9515af5-fe3c-467b-9a03-1ffe3057fac2)
+
+![Screenshot 2024-05-10 145337](https://github.com/Tenzdd/Health-Insurance-Data-Analysis/assets/120646586/8602ab2f-46e1-4dd8-b8dd-60df65f1d290)
+
+![Screenshot 2024-05-10 145824](https://github.com/Tenzdd/Health-Insurance-Data-Analysis/assets/120646586/6ecb06de-788c-463e-8327-04ea87c9bdc7)
+
+![Screenshot 2024-05-10 145757](https://github.com/Tenzdd/Health-Insurance-Data-Analysis/assets/120646586/c547896f-26c0-4668-91d0-c4587d26c8a9)
+
+
+
+
+
+
+
 
 ### Data Source
 
